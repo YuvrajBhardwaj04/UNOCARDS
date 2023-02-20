@@ -4,8 +4,7 @@ package unocards;
  * A class to handle the user interaction for the Card project. Contains a main method that generates a card hand and
  * then iterates over it to print its contents to the console.
  *
- * @author Yuvraj Bhardwaj, 2023 Feb 19
- * This exercise is in class exercise
+ * @author Yuvraj Bhardwaj, 2023 Feb 19 
  */
 public class GamePlayer {
 
