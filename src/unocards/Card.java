@@ -8,7 +8,7 @@ package unocards;
  * Due to this capability, the Card class may be more flexible and reused in many card games.
  *
  * @author Yuvraj Bhardwaj , 2023 Feb 19
- * 
+ * This class represents Uno-cards
  */
 public class Card {
 
